@@ -1,0 +1,66 @@
+3 tools for UI/UX design:
+
+ - Sketch url: https://www.sketch.com/
+
+Sketch is a vector graphics editor for macOS developed by the Dutch company Bohemian Coding. 
+It was first released on 7 September 2010 and won an Apple Design Award in 2012.
+It is primarily used for user interface and user experience design of websites and 
+mobile apps and does not include print design features. Sketch has more recently added fea
+tures for prototyping and colllaboration. Being only available for macOS, third party software and
+handoff tools may be used to view Sketch designs on other platforms.
+  
+  - InVision url: https://www.invisionapp.com/
+
+Invision is by far the most popular prototyping tool in the world. Their team is constantly adding 
+new features to help designers prototype more efficiently.It has simplified every aspect of our 
+workflow and collaboration between design and development. One can design better, faster, and more 
+collaboratively with real-time, and it’s in-browser design collaboration and presentation tools. 
+
+  - Adobe Experience Design url: https://www.adobe.com/in/products/xd.html#
+
+With Adobe XD, you can draw, reuse, and remix vector and build artwork to create wireframes, 
+screen layouts, interactive prototypes, and production-ready assets all in the same app. 
+We can switch easily from design to prototype right within the app. Also, add interactions 
+and transitions and share with teammates and stakeholders to test the look and feel of your design.
+
+3 examples of bad UI/UX
+
+1. Arngren url: http://arngren.net/
+The site places the graphics, content, and links everywhere. All the elements together make 
+the site a mess. A grid can make everything clean and organized on your website. It keeps all
+your elements in their proper places and helps you to determine their size, the size, and space of the text, etc. 
+
+2.Gatesnfences url: http://www.gatesnfences.com/
+The biggest feature of navigation for a website is self-evident. When a user logs onto your website, 
+he/she should understand what they can do next and what actions to take to reach their destination. 
+The navigation must be eye-catching and should often be at the top of the page. Do not try to design navigation
+ like this site. It only makes the user more confused.
+
+3. Pacific Northwest X-Ray Inc url: http://www.pnwx.com/
+This web design is like a mixed color palette, which contains plenty of conflicting colors and text colors,
+and also mixed with the background color. All those make it difficult for users to read at all. Also, the 
+navigation is quite complicated. A good web design should use color properly to create a beautiful and 
+concise interface and atmosphere.
+
+3 examples of good UI/UX 
+
+1.Medium url: https://medium.com/
+Medium, an online reading and publishing platform, is just as gorgeous as it is functional. 
+With minimal use of color, generous line spacing, and a well chosen combination of typography, 
+this website gets everything right. With Medium, content is king. Once a user is logged in, 
+a box appears at the top of the article list with the text “Write here”, enabling and encouraging
+everyone to get writing quickly. When users click on the “Write a Story” link, they are presented 
+with an almost empty white page, removing clutter and simply providing a clean space to focus on writing.
+
+2. Virgin America url: https://www.virgin.com/
+When it comes to helping users complete the process of booking a flight, Virgin America was one of the first
+– if not the first – to put the user’s interests front and centre. For most, booking a flight is a chore. 
+Much like a dishwasher relieves us of having to scrub the dishes, Virgin America’s site stripped back their 
+interface to draw attention to the most important question: “Where would you like to go?” By removing all the
+surrounding content, the user could immediately start the booking process.
+
+3. Airbnb url: https://www.airbnb.com/
+The UI of Airbnb does two things very well: booking a place to stay, and creating trust between two complete strangers.
+Airbnb, much like Virgin America, has prioritized making it easy to start booking a stay right from the home screen. 
+Paired with its characteristic use of conversational copy, such as the “What can we help you find, Edward?” below, 
+and helpful cue text, a user is simultaneously and courteously invited and directed to start planning their stay.
